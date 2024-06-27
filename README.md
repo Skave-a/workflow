@@ -189,7 +189,7 @@ git pull origin dev
 
 [Размышления о React](https://my-js.org/docs/other/react-philosophies/)
 
------------------------------------------------
+------------------------------------------------
 <img src="./mems/boji.jpg" alt="boji" width="400">
 
 
